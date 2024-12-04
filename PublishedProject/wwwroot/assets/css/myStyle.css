@@ -1,0 +1,84 @@
+﻿
+.text-align-right {
+    text-align: right;
+}
+
+.text-align-left {
+    text-align: left;
+}
+
+.float-right {
+    float: right;
+}
+
+.float-left {
+    float: left;
+}
+
+/* لتوسيط النافبار */
+.navbar-centered {
+    flex-grow: 1;
+    display: flex;
+    justify-content: center; /* يجعل القائمة في المنتصف */
+}
+
+/* لإضافة المسافة بين عناصر القائمة */
+.navmenu-items {
+    display: flex;
+    gap: 20px; /* يمكنك تعديل القيمة حسب الحاجة */
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+    .navmenu-items li {
+        margin: 0 10px; /* يمكنك تعديل القيمة حسب الحاجة */
+    }
+
+/* لإبعاد السهم قليلاً عن النص */
+.navmenu .dropdown > a > .toggle-dropdown {
+    margin-right: 10px; /* يمكنك تعديل القيمة حسب الحاجة */
+}
+
+
+.services-section {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+/*.service-item {
+    display: flex;
+    align-items: center;
+}*/
+
+.icon {
+    font-size: 24px;
+    color: green;  يمكنك تغيير اللون حسب تفضيلاتك 
+    margin-right: 10px;  المسافة بين الأيقونة والنص 
+}
+
+.service-text {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.icon-img-serv {
+    width: 100%;
+    height: auto;
+}
+
+.whatsapp-link {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    background-color: #242458;
+    color: #fff;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
