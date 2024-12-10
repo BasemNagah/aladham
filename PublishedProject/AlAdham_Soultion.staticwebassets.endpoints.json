@@ -2387,8 +2387,8 @@
       ]
     },
     {
-      "Route": "assets/css/myStyle.css",
-      "AssetFile": "assets/css/myStyle.css",
+      "Route": "assets/css/mystyle.css",
+      "AssetFile": "assets/css/mystyle.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2424,8 +2424,8 @@
       ]
     },
     {
-      "Route": "assets/css/myStyle.d7tr4l7dox.css",
-      "AssetFile": "assets/css/myStyle.css",
+      "Route": "assets/css/mystyle.d7tr4l7dox.css",
+      "AssetFile": "assets/css/mystyle.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2464,7 +2464,7 @@
         },
         {
           "Name": "label",
-          "Value": "assets/css/myStyle.css"
+          "Value": "assets/css/mystyle.css"
         }
       ]
     },
@@ -8291,8 +8291,8 @@
       ]
     },
     {
-      "Route": "assets/js/myJS.js",
-      "AssetFile": "assets/js/myJS.js",
+      "Route": "assets/js/myjs.js",
+      "AssetFile": "assets/js/myjs.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8328,8 +8328,8 @@
       ]
     },
     {
-      "Route": "assets/js/myJS.ysbujrtprg.js",
-      "AssetFile": "assets/js/myJS.js",
+      "Route": "assets/js/myjs.ysbujrtprg.js",
+      "AssetFile": "assets/js/myjs.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8368,7 +8368,7 @@
         },
         {
           "Name": "label",
-          "Value": "assets/js/myJS.js"
+          "Value": "assets/js/myjs.js"
         }
       ]
     },
